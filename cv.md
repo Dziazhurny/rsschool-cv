@@ -17,7 +17,7 @@ I would really like to make my knowledges in IT deeper and I think that EPAM cou
   I will list everything that I have already worked with, albeit not at a high level, but still.</br>
     - HTML 
     - CSS
-    - JS
+    - JavaScript
     - GIT
     - VS Code
 1. **Code examples**</br>
