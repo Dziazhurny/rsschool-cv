@@ -1,0 +1,58 @@
+.styleBody{
+  position: relative;
+  margin: 0 auto;
+  max-width: 1024px;
+  background-image: url(https://i.pinimg.com/originals/4d/23/5c/4d235c1ebb235f6bc955c6c53b7a45b2.jpg);
+  
+}
+
+h1{
+  vertical-align: top;
+  margin-top:50px;
+  display: inline-block;
+}
+
+h2:nth-child(2){
+    text-shadow: 3px 5px 6px #6c9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: #366B50;
+    text-decoration: underline;
+
+    /* color:rgb(7, 247, 7); 
+    text-decoration: underline; */
+}
+
+li {
+    font-weight: bold;
+}
+
+
+.mainHeader{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 7px solid rgba(116, 113, 113, 0.726);
+}
+
+.mainPhoto{
+  position: relative;
+  vertical-align: top;
+  margin-left: 40%;
+  display: inline-block;
+  border-radius: 50%;
+  
+}
+
+h2 p{
+    
+  margin-bottom: 10px;
+  margin-top: 20px;
+  font-size: 25px; 
+     
+}
+
+.skills li{
+  list-style-type: circle;
+  font-weight: bold;
+    }
